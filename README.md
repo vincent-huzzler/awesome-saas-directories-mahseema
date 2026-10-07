@@ -21,6 +21,7 @@ A curated list of top best directories and platforms to launch and promote your 
 - [B2B Stack](https://www.b2bstack.com.br) - SaaS tools for B2B use.
 - [TapRefer](https://www.taprefer.com) - Biggest directory of affiliate programs.
 
+- [Huzzler](https://huzzler.so) - Launch platform and startup directory for SaaS founders.
 ---
 
 ## 🥳 Startup and Maker Communities
